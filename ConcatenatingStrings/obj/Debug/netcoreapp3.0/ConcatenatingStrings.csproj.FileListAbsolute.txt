@@ -1,0 +1,11 @@
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task4/ConcatenatingStrings/bin/Debug/netcoreapp3.0/ConcatenatingStrings
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task4/ConcatenatingStrings/bin/Debug/netcoreapp3.0/ConcatenatingStrings.deps.json
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task4/ConcatenatingStrings/bin/Debug/netcoreapp3.0/ConcatenatingStrings.runtimeconfig.json
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task4/ConcatenatingStrings/bin/Debug/netcoreapp3.0/ConcatenatingStrings.runtimeconfig.dev.json
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task4/ConcatenatingStrings/bin/Debug/netcoreapp3.0/ConcatenatingStrings.dll
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task4/ConcatenatingStrings/bin/Debug/netcoreapp3.0/ConcatenatingStrings.pdb
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task4/ConcatenatingStrings/obj/Debug/netcoreapp3.0/ConcatenatingStrings.csprojAssemblyReference.cache
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task4/ConcatenatingStrings/obj/Debug/netcoreapp3.0/ConcatenatingStrings.AssemblyInfoInputs.cache
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task4/ConcatenatingStrings/obj/Debug/netcoreapp3.0/ConcatenatingStrings.AssemblyInfo.cs
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task4/ConcatenatingStrings/obj/Debug/netcoreapp3.0/ConcatenatingStrings.dll
+/Users/zhenis/Projects/ALA-01-08_Basic_Coding_Task4/ConcatenatingStrings/obj/Debug/netcoreapp3.0/ConcatenatingStrings.pdb
